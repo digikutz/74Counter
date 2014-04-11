@@ -29,14 +29,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:7400-counter-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "12 mar 2014"
+Date "11 feb 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -552,8 +551,4 @@ Wire Wire Line
 	7900 3700 9050 3700
 Wire Wire Line
 	9050 3700 9050 4300
-Text Notes 7350 7550 0    60   ~ 0
-7400-Counter     David Mebane (Digikutz)9@gmail.com
-Text Notes 10650 7650 0    60   ~ 0
-0.1a\n
 $EndSCHEMATC
